@@ -2,8 +2,7 @@ echo "1.Addition
 2.SUbtraction 
 3.Multiplication 
 4.Division
-5.Modular division
-6.Exit"
+5.Modular division"
 echo "Enter the first number"
 read a
 echo "Enter the second number"
